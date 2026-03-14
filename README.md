@@ -5,7 +5,7 @@
 
 > Windows 10/11 · Keine Installation · Einfach starten
 
-> ⚠️ **Windows SmartScreen:** Beim ersten Start erscheint eine Sicherheitswarnung, weil die App kein kommerzielles Zertifikat trägt. Klicke auf **„Weitere Informationen" → „Trotzdem ausführen"**, um fortzufahren.
+> ⚠️ **Windows SmartScreen:** Beim ersten Start erscheint eine Sicherheitswarnung, weil die App kein kommerzielles Zertifikat trägt. Fortfahren mit Klick auf **„Weitere Informationen" → „Trotzdem ausführen"**.
 
 ---
 
@@ -17,7 +17,7 @@ PrivacyMirror ist eine kleine Windows-Anwendung für Präsentationen, bei denen 
 
 ## Features
 
-- 🖥️ **Monitorauswahl** – wähle gezielt aus, welcher Monitor als Beamer-Ausgang genutzt wird
+- 🖥️ **Monitorauswahl** – gezielte Auswahl, welcher Monitor als Beamer-Ausgang genutzt wird
 - ⬛ **Schwarzer Hintergrund** – der Beamer zeigt nur das gespiegelte Fenster, sonst nichts
 - 🔄 **Live-Spiegelung** – das ausgewählte Fenster wird in Echtzeit gespiegelt (DWM Thumbnail API)
 - 🪟 **Fensterliste** – alle sichtbaren Fenster werden aufgelistet und können per Klick ausgewählt werden

@@ -2,7 +2,7 @@
 
 **Fenster datenschutzkonform auf einen Beamer spiegeln – der Rest bleibt schwarz.**
 
-PrivacyMirror ist eine kleine Windows-Anwendung für Präsentationen, bei denen der Beamer nur das zeigen soll, was du freigibst – und nichts anderes. Du wählst ein Fenster aus, das auf den zweiten Monitor (Beamer) gespiegelt wird. Alle anderen Inhalte bleiben unsichtbar.
+PrivacyMirror ist eine kleine Windows-Anwendung für Präsentationen, bei denen der Beamer nur das zeigen soll, was freigegeben wird – und nichts anderes. Dazu wählt der Nutzer ein Fenster aus, das auf den zweiten Monitor (Beamer) gespiegelt wird. Alle anderen Inhalte bleiben unsichtbar.
 
 ---
 
@@ -23,7 +23,7 @@ PrivacyMirror ist eine kleine Windows-Anwendung für Präsentationen, bei denen 
 - Windows 10 oder Windows 11
 - Zwei Monitore (Laptop + Beamer oder zwei Bildschirme)
 
-Die Anwendung ist als Self-Contained-EXE veröffentlicht – **.NET muss nicht installiert sein.**
+Die Anwendung ist als Self-Contained-EXE veröffentlicht
 
 ---
 

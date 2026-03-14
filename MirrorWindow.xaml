@@ -1,0 +1,27 @@
+<Window Icon="app.ico"
+        x:Class="PrivacyMirror.MirrorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PrivacyMirror – Spiegelung"
+        WindowStyle="None"
+        AllowsTransparency="False"
+        Background="Black"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        KeyDown="OnKeyDown">
+
+  <Grid>
+    <!-- The captured frame is drawn here -->
+    <Image x:Name="MirrorImage"
+           Stretch="Uniform"
+           RenderOptions.BitmapScalingMode="HighQuality"/>
+
+    <!-- ESC hint overlay (fades after 3 s) -->
+    <Border x:Name="HintBorder"
+            HorizontalAlignment="Center" VerticalAlignment="Bottom"
+            Margin="0,0,0,24"
+            Background="#80000000" CornerRadius="8" Padding="14,8">
+      <TextBlock Text="ESC  –  Spiegelung beenden" Foreground="White" FontSize="13"/>
+    </Border>
+  </Grid>
+</Window>

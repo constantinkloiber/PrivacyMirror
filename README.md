@@ -1,6 +1,7 @@
 # PrivacyMirror
 
 [![Download](https://img.shields.io/badge/⬇_Download-PrivacyMirror.exe-blue?style=for-the-badge)](https://github.com/constantinkloiber/PrivacyMirror/releases/latest/download/PrivacyMirror.exe)
+[![Handbuch](https://img.shields.io/badge/📖_Handbuch-PDF-grey?style=for-the-badge)](https://github.com/constantinkloiber/PrivacyMirror/raw/main/PrivacyMirror_Handbuch.pdf)
 
 > Windows 10/11 · Keine Installation · Einfach starten
 

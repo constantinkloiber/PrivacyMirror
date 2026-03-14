@@ -4,9 +4,9 @@
 
 > Windows 10/11 · Keine Installation · Einfach starten
 
----
+> ⚠️ **Windows SmartScreen:** Beim ersten Start erscheint eine Sicherheitswarnung, weil die App kein kommerzielles Zertifikat trägt. Klicke auf **„Weitere Informationen" → „Trotzdem ausführen"**, um fortzufahren.
 
-# PrivacyMirror
+---
 
 **Fenster datenschutzkonform auf einen Beamer spiegeln – der Rest bleibt schwarz.**
 

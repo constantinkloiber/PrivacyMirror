@@ -1,5 +1,13 @@
 # PrivacyMirror
 
+[![Download](https://img.shields.io/badge/⬇_Download-PrivacyMirror.exe-blue?style=for-the-badge)](https://github.com/constantinkloiber/PrivacyMirror/releases/latest/download/PrivacyMirror.exe)
+
+> Windows 10/11 · Keine Installation · Einfach starten
+
+---
+
+# PrivacyMirror
+
 **Fenster datenschutzkonform auf einen Beamer spiegeln – der Rest bleibt schwarz.**
 
 PrivacyMirror ist eine kleine Windows-Anwendung für Präsentationen, bei denen der Beamer nur das zeigen soll, was freigegeben wird – und nichts anderes. Dazu wählt der Nutzer ein Fenster aus, das auf den zweiten Monitor (Beamer) gespiegelt wird. Alle anderen Inhalte bleiben unsichtbar.
